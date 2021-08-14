@@ -89,3 +89,9 @@ p{
 .links:hover{
     background-color: dodgerblue;
 }
+.article:hover{
+    color:goldenrod;
+}
+a{
+    text-decoration: none;
+}
